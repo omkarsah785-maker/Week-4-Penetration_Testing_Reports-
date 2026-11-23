@@ -14,7 +14,7 @@ A web application security assessment conducted as part of **NW-WK4-Project (Wee
 - **Assessment Type:** Web Application VAPT
 - **Authorization:** Permission granted by Networkwalks.com
 - **Researcher:** Omkar Sah
-- **Report Document:** [`Week_4_penetration_testing.pdf`](./Week_4_penetration_testing.pdf)
+- **Report Document:** [`Week_4_penetration_testing.pdf`](https://github.com/omkarsah785-maker/Week-4-Penetration_Testing_Reports-/blob/cf71fb29cd271fca1b8d4bf99c25ce4a1256f200/Week%204%20penetration_testing.pdf)
 
 ---
 
