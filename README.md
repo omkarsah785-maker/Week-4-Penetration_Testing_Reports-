@@ -9,7 +9,7 @@ A web application security assessment conducted as part of **NW-WK4-Project (Wee
 🎯 Project Overview
 
 - **Project:** NW-WK4-Project (Web Application Penetration Testing)
-- **Target:** `https://medirozahospital.com/`
+- **Target:**https://medirozahospital.com/
 - **Internship:** Networkwalks
 - **Assessment Type:** Web Application VAPT
 - **Authorization:** Permission granted by Networkwalks.com
